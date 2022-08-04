@@ -305,7 +305,7 @@
 			escape : /\<\@\-(.+?)\@\>/gim
 		};
 
-		/*** 화씨 move 이동 변수 ***/
+		/***  화씨 move 이동 변수  ***/
 		let fahMove = 0;
 		let spotMove = 0;
 
